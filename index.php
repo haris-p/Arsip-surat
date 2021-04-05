@@ -7,7 +7,7 @@ include "koneksi/ceksession.php";
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Era Lintas Data</title>
+    <title>Era Lintas Data Solusindo</title>
     <meta name="description" content="Free Bootstrap Theme by BootstrapMade.com">
     <meta name="keywords" content="free website templates, free bootstrap themes, free template, free bootstrap, free website template">
     
@@ -17,7 +17,7 @@ include "koneksi/ceksession.php";
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/animate.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
-    <link rel="shortcut icon" href="img/icon.ico">
+    <link rel="shortcut icon" href="img/index.jpeg">
 
   </head>
   <body>
@@ -83,7 +83,7 @@ include "koneksi/ceksession.php";
         <div class="row">
           <div class="col-md-12 text-center">
             <h2 class="service-title pad-bt15">Tentang</h2>
-            <p class="sub-title pad-bt15">Website ini berguna untuk pengarsipan Surat Masuk dan Surat Keluar di Era Lintas Data</p><p>Surat diarsipkan dalam format PDF lalu disesuaikan nomor urutnya.</p>
+            <p class="sub-title pad-bt15">Website ini berguna untuk pengarsipan Surat Masuk dan Surat Keluar di Era Lintas Data Solusindo</p><p>Surat diarsipkan dalam format PDF lalu disesuaikan nomor urutnya.</p>
             <hr class="bottom-line">
             <p class="sub-title pad-bt15">Pengarsipan Surat itu<strong> PENTING</strong></p>
             <hr class="bottom-line">
@@ -117,7 +117,7 @@ include "koneksi/ceksession.php";
       <div class="container">
         <div class="row">
           <div class="col-md-12 text-center">
-            <h2 class="service-title pad-bt15">Pengembang</h2>
+            <h2 class="service-title pad-bt15">Pembuatan</h2>
             <p class="sub-title pad-bt15">"The difference between success and failure is a great team"</p>
             <hr class="bottom-line">
           </div>
