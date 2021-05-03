@@ -42,7 +42,7 @@ include "koneksi/ceksession.php";
               <ul class="nav navbar-nav navbar-right">
                 <li class="active"><a href="#main-header">Beranda</a></li>
                 <li class=""><a href="#feature">Tentang</a></li>
-                <li class=""><a href="#portfolio">Pengembang</a></li>
+                <li class=""><a href="#portfolio">Team</a></li>
                 <ul class="nav navbar-nav navbar-right">
                 <li class="">
                   <a href="javascript:;" class="user-profile dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
@@ -117,14 +117,14 @@ include "koneksi/ceksession.php";
       <div class="container">
         <div class="row">
           <div class="col-md-12 text-center">
-            <h2 class="service-title pad-bt15">Pembuatan</h2>
+            <h2 class="service-title pad-bt15">Team</h2>
             <p class="sub-title pad-bt15">"The difference between success and failure is a great team"</p>
             <hr class="bottom-line">
           </div>
           <div class="col-md-3"></div>
           <div class="col-md-6 col-sm-6 col-xs-12 portfolio-item padding-right-zero mr-btn-15">
             <figure>
-              <img src="img/rifki.jpg" class="img-responsive">
+              <img src="img/team.jpeg" class="img-responsive">
               <figcaption>
                   <h2>Haris Pujiantoro</h2>
                   <p>"Universitas Satya Negara Indonesia"</p>
